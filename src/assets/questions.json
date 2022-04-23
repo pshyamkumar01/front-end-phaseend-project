@@ -1,0 +1,184 @@
+{
+    "questions": [{
+            "questionText": " Which of the following statement is correct for AngularJS?",
+            "options": [{
+                    "text": "AngularJS is a JavaScript framework",
+                    "correct": true
+                },
+                {
+                    "text": "AngularJS is an HTML framework"
+                },
+                {
+                    "text": "AngularJS is a Java framework"
+                },
+                {
+                    "text": "AngularJS is a SQL framework"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "On which of the Architectural pattern AngularJS is based?",
+            "options": [{
+                    "text": "Observer Pattern"
+                },
+                {
+                    "text": "Decorator pattern"
+                },
+                {
+                    "text": "MVC Architecture pattern"
+                },
+                {
+                    "text": "MVVM Architectural pattern",
+                    "correct": true
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "AngularJS is perfect for?",
+            "options": [{
+                    "text": "MPAs"
+                },
+                {
+                    "text": "SPAs",
+                    "correct": true
+                },
+                {
+                    "text": "DPAs"
+                },
+                {
+                    "text": "CPAs"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which of the following is the correct syntax for writing AngularJS expressions?",
+            "options": [{
+                    "text": "(expression)"
+                },
+                {
+                    "text": "{{expression}}",
+                    "correct": true
+                },
+                {
+                    "text": "{{{expression}}}"
+                },
+                {
+                    "text": "[expression]"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which of the following directive is used to bind the application data to the HTML view in AngularJS?",
+            "options": [{
+                    "text": "ng-bind directive",
+                    "correct": true
+                },
+                {
+                    "text": "ng-app directive"
+                },
+                {
+                    "text": "ng-model directive"
+                },
+                {
+                    "text": "ng-init directive"
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which of the following syntax is correct for applying multiple filters in AngularJS?",
+            "options": [{
+                    "text": "{{ expression | {filter1} | {filter2} | ... }}"
+                },
+                {
+                    "text": "{{ expression - {filter1} - {filter2} - ... }}"
+                },
+                {
+                    "text": "{{ {filter1} | {filter2} | ...-expression}}"
+                },
+                {
+                    "text": "{{ expression | filter1 | filter2 | ... }}",
+                    "correct": true
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which of the following statement is true about the lowercase filter?",
+            "options": [{
+                    "text": "The lowercase filter is a function that takes text as input."
+                },
+                {
+                    "text": "The lowercase filter converts a text to lower case text.",
+                    "correct": true
+                },
+                {
+                    "text": "Both of the above."
+                },
+                {
+                    "text": "None of the above."
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which of the following is an advantage of AngularJS?",
+            "options": [{
+                    "text": "AngularJS code is unit testable."
+                    
+                },
+                {
+                    "text": "AngularJS provides reusable components."
+                },
+                {
+                    "text": "AngularJS uses dependency injection and makes use of separation of concerns."
+                },
+                {
+                    "text": "All of the above",
+                    "correct": true
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "Which of the following statement is true about $dirty flag?",
+            "options": [{
+                    "text": "$dirty flag is used to state that value has been changed.",
+                    "correct": true
+                },
+                {
+                    "text": "$dirty flag is used to state that the form has invalid data."
+                },
+                {
+                    "text": "Both of the above."
+                },
+                {
+                    "text": "None of the above."
+                }
+            ],
+            "explanation": ""
+        },
+        {
+            "questionText": "What is the use of Angular Controllers in the application?",
+            "options": [{
+                    "text": "Angular controllers are used for controlling the data.",
+                    "correct": true
+                },
+                {
+                    "text": "Angular controllers are used for displaying the data."
+                },
+                {
+                    "text": "Both of the above."
+                },
+                {
+                    "text": "None of the above."
+                }
+            ],
+            "explanation": ""
+        }
+    ]
+}
